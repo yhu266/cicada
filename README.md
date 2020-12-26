@@ -1,5 +1,10 @@
 # cicada
 
+![GitHub](https://img.shields.io/github/license/mentix02/cicada)
+![GitHub top language](https://img.shields.io/github/languages/top/mentix02/cicada?color=%23f34b7d)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mentix02/cicada)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mentix02/cicada/CCI?label=build)
+
 A collection of data structures and algorithms implemented in C.
 
 ## features
