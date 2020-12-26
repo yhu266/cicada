@@ -9,14 +9,14 @@ A collection of data structures and algorithms implemented in C.
 
 ## features
 
-1. common data structures
++ structures
 	+ dynamic string
 	+ doubly linked list
 	+ C++ inspired vector
 	+ trees
 		- AVL
 		- red-black
-2. common algorithms
++ algorithms
 	+ swaps
 	+ merging
 	+ searching
